@@ -14,10 +14,10 @@ The dataset includes property attributes such as:
 - Owner 
 
 #### **Approach**
-**Data analysis** : Pie charts to Fuel Type distribution, Distribution of seller type and Distribution of Transmission, histogram to compare selling vs present price. 
-**Data Preprocessing** : Had no missing values, Encoded categorical features like Fuel Type, Seller type and Transmission into numeric values. 
-**Model Selection**: Tested Linear regression model 
-**Evaluation** : R² Score for accuracy.
+**Data analysis** : Pie charts to Fuel Type distribution, Distribution of seller type and Distribution of Transmission, histogram to compare selling vs present price.  
+**Data Preprocessing** : Had no missing values, Encoded categorical features like Fuel Type, Seller type and Transmission into numeric values.  
+**Model Selection**: Tested Linear regression model  
+**Evaluation** : R² Score for accuracy. 
 
 ##### **Getting Started**
 Clone the repo and install dependencies. 
