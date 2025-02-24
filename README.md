@@ -85,6 +85,9 @@ zenml up --blocking
 ```
 This will launch a ZenML dashboard where you can inspect pipeline runs, logs, and metrics.
 
+![Dashboard](/images/image1)
+![Dashboard](/images/image2)
+
 ## Exploratory Data Analysis (EDA)
 
 Before building the pipeline, extensive EDA is conducted to understand the dataset:
