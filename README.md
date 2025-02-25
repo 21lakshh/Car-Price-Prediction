@@ -7,7 +7,6 @@ This project is an end-to-end machine learning pipeline for predicting car price
 ## Key Features
 
 - **Data Ingestion:** Loading and preprocessing raw housing data.
-- **Handling Missing Values:** Imputing missing data using appropriate techniques.
 - **Feature Engineering:** Creating meaningful features to improve model performance.
 - **Outlier Detection:** Identifying and handling outliers to avoid model biases.
 - **Data Splitting:** Splitting data into training and testing sets.
